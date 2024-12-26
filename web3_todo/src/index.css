@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-gray-100 {
+    --tw-bg-opacity: 1;
+    background-color: #D9D9D9;
+}
+
+.bg-white {
+    --tw-bg-opacity: 1;
+    background-color: #B4B4B4;
+}
